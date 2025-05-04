@@ -3,7 +3,7 @@ package reverseString;
 public class reverseString {
 
 	public static void main(String[] args) {
-		String str="Ayush";
+		String str="Sunday";
 		String rev="";
 		int len=str.length();
 		for(int i=len-1;i>=0;i--)
